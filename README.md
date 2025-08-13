@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello!
+I'm Nima Darooei (PixelHole)
+- 🖥 Software engineer
+- 👾Game designer
+- 🖌 Artist
+
 
 <!--
 **PixelHole/PixelHole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
