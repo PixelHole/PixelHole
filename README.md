@@ -1,11 +1,23 @@
 ## Hello!
-I'm Nima Darooei (PixelHole)
+I'm Nima Darooei (PixelHole)<br>
 - 🖥 Software engineer
 - 👾Game designer
 - 🖌 Artist
 
-## Skills
+🎯Interested in both Game design and Software development <br>
+🔭 Currently maintaining [Chip-13](https://pixelhole.itch.io/chippie) <br>
+🌱 I’m learning Godot and GDscript <br>
+👯 Open to any collaborations regarding Design, development or engineering
 
+## ✨Skills
+[<img src="Pictures/Logos/Csharp_Logo.png" width="32"/>](https://dotnet.microsoft.com/en-us/languages/csharp)
+[<img src="Pictures/Logos/sticker_rider.png" width="32"/>](https://www.jetbrains.com/rider/)
+[<img src="Pictures/Logos/images.png" width="32"/>](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/)
+[<img src="Pictures/Logos/unity-69-logo-png-transparent.png" width="32"/>](https://unity.com/)
+[<img src="Pictures/Logos/Godot_icon.svg.png" width="32"/>](https://godotengine.org/)
+[](https://godotengine.org/)
+[<img src="Pictures/Logos/Python-logo-notext.svg.png" width="32"/>](https://www.python.org/)
+[<img src="Pictures/Logos/Java_programming_language_logo.svg.png" height="32">](https://www.java.com/)
 
 ## 🔨Projects I've worked on
 [![icons1.png](Pictures/Icons/Projects/64/icons1.png)](https://pixelhole.itch.io/chippie)
@@ -18,21 +30,6 @@ I'm Nima Darooei (PixelHole)
 - [Simple FTP Service](https://github.com/PixelHole/FTP-Service)
 - [Formal Language Parser](https://github.com/PixelHole/FormalLanguageParser)
 
-## 📣Socials
+## 📫Socials
 - Discord : pixeldhole
 - Telegram : [Nima Darooei](https://t.me/Nimadaloo)
-
-<!--
-**PixelHole/PixelHole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
