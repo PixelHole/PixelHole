@@ -33,3 +33,4 @@ I'm Nima Darooei (PixelHole)<br>
 ## 📫Socials
 - Discord : pixeldhole
 - Telegram : [Nima Darooei](https://t.me/Nimadaloo)
+- Email : Pixelholeofficial@gmail.com
